@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.tvVietnam" name="Vietnam TV" version="1.0.0" provider-name="tvVietnam">
+<addon id="plugin.video.tvVietnam" name="Vietnam TV" version="1.0.6" provider-name="vietshare">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
