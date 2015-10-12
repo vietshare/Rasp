@@ -6,7 +6,7 @@
 	provider-name="vietshare">
 
 	<extension point="xbmc.addon.repository"
-		name="[COLOR lime][B]Vietshare Repository[/B][/COLOR]">
+		name="Vietshare Repository">
 		<info compressed="true">https://raw.github.com/vietshare/Rasp/master/addons.xml</info>
 		<checksum>https://raw.github.com/vietshare/Rasp/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.github.com/vietshare/Rasp/master/zips/</datadir>
