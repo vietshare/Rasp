@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.video.tvVietnam" name="Vietnam TV" version="1.0.1" provider-name="vietshare">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TV Vietnam</summary>
+    <description lang="en">Play TV Vietnam and add your own m3u file</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon
 	id="repository.vietshare"
 	version="1.0.0"
