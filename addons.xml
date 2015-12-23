@@ -34,11 +34,10 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.tvVietnam" name="Vietnam TV" version="1.0.8" provider-name="vietshare">
+<addon id="plugin.video.tvVietnam" name="Vietnam TV" version="1.0.9" provider-name="vietshare">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="repository.docshadrach"/>
-    <import addon="repository.zeus"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
