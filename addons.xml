@@ -34,7 +34,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.tvVietnam" name="Vietnam TV" version="1.0.10" provider-name="vietshare">
+<addon id="plugin.video.tvVietnam" name="Vietnam TV" version="1.0.11" provider-name="vietshare">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="repository.docshadrach"/>
